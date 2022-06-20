@@ -11,7 +11,7 @@ app.get("/home", (request, response, next) => {
       <link rel="stylesheet" href="style.css" />
     </head>
     <body>
-      <h1> CAPITAINE DES MUGIWARA !</h1>
+      <h1> LE CAPITAINE DES MUGIWARA !</h1>
       <img src="mugi.png">
       <ul>
       <li><a href="about">Monkey D. Luffy</a></li>
