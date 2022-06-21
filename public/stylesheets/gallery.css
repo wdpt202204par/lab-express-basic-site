@@ -1,0 +1,44 @@
+header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    border: solid 2px;
+    border-radius: 5px;
+    background-color: gray;
+    margin-inline: 20px;
+    padding: 5px;
+    color: black;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+h2 {
+    width: 200px;
+}
+
+p {
+    width: 200px;
+    text-align: center;
+}
+
+.row img {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+div {
+    border: solid 1px rgb(205, 205, 205);
+}
